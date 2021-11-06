@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<p>I am here</p>
+<p>Result is here: </p><%=request.getAttribute("result")%>
 </body>
 </html>
